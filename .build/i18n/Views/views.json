@@ -1,0 +1,22 @@
+[
+  {
+    "id": "settings.views.overview_0",
+    "defaultMessage": "Manage the available application views using only the parts of the application applicable to you."
+  },
+  {
+    "id": "settings.views.overview_1",
+    "defaultMessage": "Are you an end-user? The defaults are setup for both beginner and advanced users alike."
+  },
+  {
+    "id": "settings.views.overview_2",
+    "defaultMessage": "Are you a developer? Add some features to manage contracts and interact with application deployments."
+  },
+  {
+    "id": "settings.views.overview_3",
+    "defaultMessage": "Are you a miner or run a large-scale node? Add the features to give you all the information needed to watch the node operation."
+  },
+  {
+    "id": "settings.views.apps.description",
+    "defaultMessage": "Decentralized applications that interact with the underlying network. Add applications, manage you application portfolio and interact with application from around the network."
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "id": "settings.background.overview_0",
+    "defaultMessage": "The background pattern you can see right now is unique to your Parity installation. It will change every time you create a new Signer token. This is so that decentralized applications cannot pretend to be trustworthy."
+  },
+  {
+    "id": "settings.background.overview_1",
+    "defaultMessage": "Pick a pattern you like and memorize it. This Pattern will always be shown from now on, unless you clear your browser cache or use a new Signer token."
+  },
+  {
+    "id": "settings.background.button_more",
+    "defaultMessage": "generate more"
+  }
+]
