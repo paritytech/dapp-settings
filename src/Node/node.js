@@ -46,6 +46,8 @@ export default class Node extends Component {
           <FormattedMessage id='settings.parity.label' />
         }
       >
+        <Features />
+
         <div className={ layout.layout }>
           <div className={ layout.overview }>
             <div>
@@ -58,7 +60,6 @@ export default class Node extends Component {
           <div className={ layout.details }>
             { this.renderChains() }
             { this.renderModes() }
-            <Features />
             <LanguageSelector />
           </div>
         </div>
