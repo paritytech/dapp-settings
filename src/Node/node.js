@@ -229,6 +229,12 @@ export default class Node extends Component {
                 defaultMessage='Expanse network'
               />
             )),
+            this.renderItem('musicoin', (
+              <FormattedMessage
+                id='settings.parity.chains.chain_musicoin'
+                defaultMessage='Musicoin network'
+              />
+            )),
             this.renderItem('dev', (
               <FormattedMessage
                 id='settings.parity.chains.chain_dev'
