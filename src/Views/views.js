@@ -20,7 +20,7 @@ import { FormattedMessage } from 'react-intl';
 import { connect } from 'react-redux';
 import { bindActionCreators } from 'redux';
 
-import { toggleView } from '@parity/shared/redux/providers/settings/actions';
+import { toggleView } from '@parity/shared/lib/redux/providers/settings/actions';
 import { Checkbox, Container } from '@parity/ui';
 
 import layout from '../layout.css';

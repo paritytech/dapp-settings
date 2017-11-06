@@ -17,7 +17,7 @@
 import LogLevel from 'loglevel';
 import { action, observable } from 'mobx';
 
-import { LOG_KEYS } from '@parity/shared/config';
+import { LOG_KEYS } from '@parity/shared/lib/config';
 
 const DEFAULT_MODE = 'active';
 const DEFAULT_CHAIN = 'foundation';

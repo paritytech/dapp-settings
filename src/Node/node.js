@@ -20,7 +20,7 @@ import PropTypes from 'prop-types';
 import { FormattedMessage } from 'react-intl';
 
 import { Container, Dropdown, LanguageSelector } from '@parity/ui';
-import Features, { FeaturesStore, FEATURES } from '@parity/ui/Features';
+import Features, { FeaturesStore, FEATURES } from '@parity/ui/lib/Features';
 
 import Store, { LOGLEVEL_OPTIONS } from './store';
 import layout from '../layout.css';

@@ -19,7 +19,7 @@ import PropTypes from 'prop-types';
 import { FormattedMessage } from 'react-intl';
 
 import { Page, Tabs } from '@parity/ui';
-import { BackgroundIcon, EthernetIcon, VisibleIcon } from '@parity/ui/Icons';
+import { BackgroundIcon, EthernetIcon, VisibleIcon } from '@parity/ui/lib/Icons';
 
 import imagesEthcoreBlock from '@parity/shared/assets/images/parity-logo-white-no-text.svg';
 
